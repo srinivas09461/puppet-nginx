@@ -1,6 +1,6 @@
 # @summary Manage NGINX
 #
-# Packaged NGINX
+# Packaged NGINX1
 #   - RHEL: EPEL or custom package
 #   - Debian/Ubuntu: Default Install or custom package
 #   - SuSE: Default Install or custom package
